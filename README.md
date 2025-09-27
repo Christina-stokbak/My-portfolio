@@ -3,5 +3,5 @@ This repository is a portfolio of some of my programming projects. These project
 
 ## Projects in this portfolio:
 1. Task Master - A task management system developed in ASP.NET (TBA)
-2. A Spring boot API - A "Hello World" API to dip my toes into Spring Boot
+2. [A Spring boot API](spring-boot-project/Payroll) - A "Hello World" API to dip my toes into Spring Boot
 3. A React web app - TBA
